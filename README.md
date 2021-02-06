@@ -58,7 +58,7 @@
 ## How To Deploy 👷
 
 * [**With Heroku 🇭**](https://theuserge.github.io/deployment#deploying-with-heroku)  
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anonymous5945/use67)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anonymous5945/use67/tree/beta)
 
 * [**With Docker 🐳**](https://theuserge.github.io/deployment#deploying-with-docker-)
 
